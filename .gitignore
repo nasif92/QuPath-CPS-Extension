@@ -1,0 +1,23 @@
+# Build output (this is the "lots of files")
+build/
+.gradle/
+out/
+bin/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# macOS
+.DS_Store
+
+# Local settings and logs
+gradle.properties
+hs_err*.log
+*.tmp
+*.bak
+*.swp
