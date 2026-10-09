@@ -93,7 +93,7 @@ with clinical guidance and collaboration from:
 
 * [Dr. Gilbert Bigras](https://github.com/gilbertbigras)
 * [Dr. Nilanjan Ray](https://scholar.google.ca/citations?user=E3wuLqAAAAAJ&hl=en)
-* [Abhineet Singh](https://github.com/abhineet123)
+* [Dr. Abhineet Singh](https://github.com/abhineet123)
 
 Built on [QuPath](https://qupath.github.io/), developed at the University of Edinburgh by
 Pete Bankhead, Alan O'Callaghan and Laura Nicolás-Sáenz, with thanks to past team members.
