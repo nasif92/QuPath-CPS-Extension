@@ -11,6 +11,8 @@ Timed PD-L1 (CPS) scoring for an **unmodified** QuPath install.
   **PD-L1** tab in the analysis pane. Press **Done** there to write the result row.
 - The same toggle is available under **Extensions > CPS Score**.
 
+![CPS toolbar button](docs/images/02-toolbar-button.png)
+
 ### Data recorded
 
 Your name (as entered), slide name, CPS score, tumor-cell and nuclei counts, start/stop time and
@@ -27,9 +29,33 @@ Requires **QuPath 0.7.0**.
 2. Drag the jar onto the QuPath window. If prompted, create a user directory.
 3. Restart QuPath.
 
+![Dragging the jar onto QuPath](docs/images/01-drag-jar.png)
+
 **Updating:** close QuPath, delete the old jar from the extensions folder
 (Extensions > Manage extensions > open extensions directory), copy in the new one, restart.
 Don't keep two versions of the jar in that folder.
+
+## For users: scoring a slide
+
+1. Open the image and classify tumor and non-tumor cells.
+
+   ![Classified tumor and non-tumor cells](docs/images/03-classified.png)
+
+2. Click the CPS toggle to start scoring. Give consent and enter your name.
+
+   ![Start scoring dialog](docs/images/04-start-scoring.png)
+
+3. Review the view. Live tumor-cell and nuclei counts are shown as an overlay.
+
+   ![Live counts overlay](docs/images/05-overlay.png)
+
+4. Click the toggle again and enter the CPS score (0-100).
+
+   ![Enter CPS score](docs/images/06-enter-score.png)
+
+5. In the **PD-L1** tab, press **Done** to save the result.
+
+   ![PD-L1 tab](docs/images/07-pdl1-tab.png)
 
 ## For developers: build
 
@@ -52,3 +78,23 @@ The jar is written to `build/libs/qupath-extension-cps-<version>.jar`.
 
 Change `qupath { version = "..." }` in `settings.gradle.kts` and `QUPATH_VERSION`
 in `CPSScoreExtension.java`, rebuild, and retest before releasing.
+
+## Acknowledgements
+
+This CPS project was made possible through the generous support and partnership of Merck Canada.
+
+### Development & support
+
+This extension is developed at the University of Alberta by:
+
+* [Nasif Hossain](https://github.com/nasif92)
+
+with clinical guidance and collaboration from:
+
+* [Dr. Gilbert Bigras](https://github.com/gilbertbigras)
+* [Dr. Nilanjan Ray][https://scholar.google.ca/citations?user=E3wuLqAAAAAJ&hl=en]
+* [Abhineet Singh](https://github.com/abhineet123)
+
+Built on [QuPath](https://qupath.github.io/), developed at the University of Edinburgh by
+Pete Bankhead, Alan O'Callaghan and Laura Nicolás-Sáenz, with thanks to past team members.
+See the [QuPath contributors](https://github.com/qupath/qupath/graphs/contributors).
