@@ -43,7 +43,7 @@ Don't keep two versions of the jar in that folder.
 
 2. Click the CPS toggle to start scoring. Give consent and enter your name.
 
-    <img src="docs/images/04-start-scoring.png" alt="Start scoring dialog" width="300">
+    <img src="docs/images/04-start-scoring.png" alt="Start scoring dialog" width="400">
 
 3. Review the view. Live tumor-cell and nuclei counts are shown as an overlay.
 
@@ -51,11 +51,12 @@ Don't keep two versions of the jar in that folder.
 
 4. Click the toggle again and enter the CPS score (0-100).
 
-   <img src="docs/images/06-enter-score.png" alt="Enter CPS score" width="300">
+   <img src="docs/images/06-enter-score.png" alt="Enter CPS score" width="400">
 
 6. In the **PD-L1** tab, press **Done** to save the result.
 
-   ![PD-L1 tab](docs/images/07-pdl1-tab.png)
+   <img src="docs/images/07-pdl1-tab.png" alt="Enter CPS score" width="400">
+
 
 ## For developers: build
 
