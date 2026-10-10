@@ -29,7 +29,7 @@ Requires **QuPath 0.7.0**.
 2. Drag the jar onto the QuPath window. If prompted, create a user directory.
 3. Restart QuPath.
 
-  <img src="docs/images/01-drag-jar.png" alt="Dragging the jar onto QuPath" width="300">
+  <img src="docs/images/01-drag-jar.png" alt="Dragging the jar onto QuPath" width="400">
 
 **Updating:** close QuPath, delete the old jar from the extensions folder
 (Extensions > Manage extensions > open extensions directory), copy in the new one, restart.
@@ -39,7 +39,7 @@ Don't keep two versions of the jar in that folder.
 
 1. Open the image and classify tumor and non-tumor cells.
 
-    <img src="docs/images/03-classified.png" alt="Classified tumor and non-tumor cells" width="300">
+    <img src="docs/images/03-classified.png" alt="Classified tumor and non-tumor cells" width="800">
 
 2. Click the CPS toggle to start scoring. Give consent and enter your name.
 
