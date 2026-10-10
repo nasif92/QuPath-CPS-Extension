@@ -81,7 +81,7 @@ in `CPSScoreExtension.java`, rebuild, and retest before releasing.
 
 ## Acknowledgements
 
-This CPS project was made possible through the generous support and partnership of Merck Canada.
+This CPS project was made possible through the generous support and partnership of [Merck Canada](https://www.merck.ca/en/).
 
 ### Development & support
 
