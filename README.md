@@ -11,7 +11,7 @@ Timed PD-L1 (CPS) scoring for an **unmodified** QuPath install.
   **PD-L1** tab in the analysis pane. Press **Done** there to write the result row.
 - The same toggle is available under **Extensions > CPS Score**.
 
-![CPS toolbar button](docs/images/02-toolbar-button.png)
+  <img src="docs/images/02-toolbar-button.png" alt="CPS toolbar button" width="300">
 
 ### Data recorded
 
