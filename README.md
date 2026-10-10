@@ -47,12 +47,11 @@ Don't keep two versions of the jar in that folder.
 
 3. Review the view. Live tumor-cell and nuclei counts are shown as an overlay.
 
-    <img src="docs/images/05-overlay.png" alt="Live counts overlay" width="300" height="400">
+    <img src="docs/images/05-overlay.png" alt="Live counts overlay" width="200" height="400">
 
 4. Click the toggle again and enter the CPS score (0-100).
 
    <img src="docs/images/06-enter-score.png" alt="Enter CPS score" width="800">
-
 
 6. In the **PD-L1** tab, press **Done** to save the result.
 
