@@ -88,10 +88,10 @@ This CPS project was made possible through the generous support and partnership 
 
 This extension is developed at the University of Alberta by:
 
+* [Nasif Hossain](https://github.com/nasif92) (creator)
 * [Dr. Gilbert Bigras](https://github.com/gilbertbigras)
 * [Dr. Nilanjan Ray](https://scholar.google.ca/citations?user=E3wuLqAAAAAJ&hl=en)
 * [Dr. Abhineet Singh](https://github.com/abhineet123)
-* [Nasif Hossain](https://github.com/nasif92)
 
 
 Built on [QuPath](https://qupath.github.io/), developed at the University of Edinburgh by
