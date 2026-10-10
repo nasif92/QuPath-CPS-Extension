@@ -26,7 +26,7 @@ Requires **QuPath 0.7.0**.
 
 1. Download `qupath-extension-cps-<version>.jar` from the [Releases](../../releases) page
    (just that one file; ignore any `-sources` or `-javadoc` jars).
-2. Drag the jar onto the QuPath window. If prompted, create a user directory.
+2. Drag the jar onto the QuPath window. 
 3. Restart QuPath.
 
   <img src="docs/images/01-drag-jar.png" alt="Dragging the jar onto QuPath" width="400">
