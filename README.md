@@ -39,7 +39,7 @@ Don't keep two versions of the jar in that folder.
 
 1. Open the image and classify tumor and non-tumor cells.
 
-    <img src="docs/images/03-classified.png" alt="Classified tumor and non-tumor cells" width="800">
+    <img src="docs/images/03-classified.png" alt="Classified tumor and non-tumor cells" width="400">
 
 2. Click the CPS toggle to start scoring. Give consent and enter your name.
 
@@ -47,7 +47,7 @@ Don't keep two versions of the jar in that folder.
 
 3. Review the view. Live tumor-cell and nuclei counts are shown as an overlay.
 
-    <img src="docs/images/05-overlay.png" alt="Live counts overlay" width="200" height="400">
+    <img src="docs/images/05-overlay.png" alt="Live counts overlay" width="200" height="800">
 
 4. Click the toggle again and enter the CPS score (0-100).
 
